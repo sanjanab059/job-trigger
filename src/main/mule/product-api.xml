@@ -135,7 +135,7 @@ output application/json
 {
   productname: "clothes",
   productid: 79797,
-  message: "fetched products from zara and tommy brand",
+  message: "fetched products from zara and tommy brand and hm band",
   color : "blue",
   Size : "Available in all the sizes"
 }]]></ee:set-payload>

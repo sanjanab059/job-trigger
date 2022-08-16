@@ -135,14 +135,9 @@ output application/json
 {
   productname: "clothes",
   productid: 79797,
-<<<<<<< HEAD
   message: "fetched products from zara and tommy brand",
   color : "blue",
   Size : "Available in all the sizes"
-=======
-  message: "fetched products from zara and tommy  and H&M brand",
-  color : "blue"
->>>>>>> a999e9fcc3e628799f9abcaaa30d8211c008dab8
 }]]></ee:set-payload>
             </ee:message>
         </ee:transform>
